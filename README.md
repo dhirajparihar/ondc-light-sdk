@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/dhirajparihar/ondc-light-sdk/raw/main/assets/ondc-light-sdk-video.mp4">
-    <img src="./assets/ondc-light-sdk-image.png" alt="ONDC Light SDK - Ed25519 Verified" width="100%" />
-  </a>
+  <img src="./assets/ondc-light-sdk-demo.gif" alt="ONDC Light SDK Motion Walkthrough Demo" width="100%" />
 </p>
 
 # ondc-light-sdk
@@ -16,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/dhirajparihar/ondc-light-sdk/raw/main/assets/ondc-light-sdk-video.mp4">
-    <b>▶️ Watch the Motion Design Video Walkthrough (MP4)</b>
+    <b>▶️ Download High-Definition (1080p MP4) Video</b>
   </a>
 </p>
 
