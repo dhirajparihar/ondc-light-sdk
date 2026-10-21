@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/ondc-light-sdk-image.png" alt="ONDC Light SDK - Ed25519 Verified" width="100%" />
+  <a href="https://github.com/dhirajparihar/ondc-light-sdk/raw/main/assets/ondc-light-sdk-video.mp4">
+    <img src="./assets/ondc-light-sdk-image.png" alt="ONDC Light SDK - Ed25519 Verified" width="100%" />
+  </a>
 </p>
 
 # ondc-light-sdk
@@ -13,9 +15,9 @@
 </p>
 
 <p align="center">
-  <video src="./assets/ondc-light-sdk-video.mp4" width="100%" controls poster="./assets/ondc-light-sdk-image.png">
-    <a href="./assets/ondc-light-sdk-video.mp4">▶️ Watch the Motion Design Video Walkthrough</a>
-  </video>
+  <a href="https://github.com/dhirajparihar/ondc-light-sdk/raw/main/assets/ondc-light-sdk-video.mp4">
+    <b>▶️ Watch the Motion Design Video Walkthrough (MP4)</b>
+  </a>
 </p>
 
 A lightweight, production-ready, open-source Node.js and TypeScript SDK wrapper for **India's Digital Public Infrastructure (DPI)** and the **Beckn / ONDC Protocol**.
