@@ -1,0 +1,14 @@
+{
+  "name": "express-seller-example",
+  "version": "1.0.0",
+  "description": "Working Express seller application demonstrating mock /search and /on_search using ondc-light-sdk",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ondc-light-sdk": "file:../.."
+  }
+}
